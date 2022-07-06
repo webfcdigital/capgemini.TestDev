@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\bin\Debug\net5.0\Capgemini.TestDev.Data.deps.json
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\bin\Debug\net5.0\Capgemini.TestDev.Data.dll
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\bin\Debug\net5.0\ref\Capgemini.TestDev.Data.dll
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\bin\Debug\net5.0\Capgemini.TestDev.Data.pdb
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\obj\Debug\net5.0\Capgemini.TestDev.Data.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\obj\Debug\net5.0\Capgemini.TestDev.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\obj\Debug\net5.0\Capgemini.TestDev.Data.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\obj\Debug\net5.0\Capgemini.TestDev.Data.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\obj\Debug\net5.0\Capgemini.TestDev.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\obj\Debug\net5.0\Capgemini.TestDev.Data.dll
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\obj\Debug\net5.0\ref\Capgemini.TestDev.Data.dll
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Data\obj\Debug\net5.0\Capgemini.TestDev.Data.pdb

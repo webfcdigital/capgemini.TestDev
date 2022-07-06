@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Business\bin\Debug\netcoreapp3.1\Capgemini.TestDev.Business.deps.json
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Business\bin\Debug\netcoreapp3.1\Capgemini.TestDev.Business.dll
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Business\bin\Debug\netcoreapp3.1\Capgemini.TestDev.Business.pdb
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Business\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Business.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Business\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Business\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Business.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Business\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Business.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Business\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Business\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Business.dll
+C:\Users\Dell\source\repos\Capgemini.TestDev\Capgemini.TestDev.Business\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Business.pdb

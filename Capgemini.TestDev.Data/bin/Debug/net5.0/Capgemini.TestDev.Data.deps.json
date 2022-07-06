@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Capgemini.TestDev.Data/1.0.0": {
+        "runtime": {
+          "Capgemini.TestDev.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capgemini.TestDev.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

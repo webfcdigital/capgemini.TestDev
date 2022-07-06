@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Capgemini.TestDev\Caçg\bin\Debug\netcoreapp3.1\Capgemini.TestDev.Domain.deps.json
+C:\Users\Dell\source\repos\Capgemini.TestDev\Caçg\bin\Debug\netcoreapp3.1\Capgemini.TestDev.Domain.dll
+C:\Users\Dell\source\repos\Capgemini.TestDev\Caçg\bin\Debug\netcoreapp3.1\Capgemini.TestDev.Domain.pdb
+C:\Users\Dell\source\repos\Capgemini.TestDev\Caçg\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Capgemini.TestDev\Caçg\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Capgemini.TestDev\Caçg\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Capgemini.TestDev\Caçg\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Domain.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Capgemini.TestDev\Caçg\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Capgemini.TestDev\Caçg\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Domain.dll
+C:\Users\Dell\source\repos\Capgemini.TestDev\Caçg\obj\Debug\netcoreapp3.1\Capgemini.TestDev.Domain.pdb
